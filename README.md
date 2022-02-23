@@ -1,6 +1,6 @@
 ## Clouds-Segmentation-Project
 
-![AMS poster](https://github.com/DavidHuji/Clouds-Segmentation-Project/blob/master/AMS2021Poster.png)
+![AMS poster](https://github.com/DavidHuji/Clouds-Images-Segmentation/blob/main/AMS2021Poster.png)
 
 **Project Description:**
 
